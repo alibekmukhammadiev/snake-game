@@ -19,3 +19,7 @@ Welcome to the Snake Game, a classic arcade game implemented using Python and th
 
 - To view the website, simply run the `python main.py` command in your terminal.
 
+## Contact
+
+If you have any questions or comments, feel free to contact me at alibek.mukhammadiev@gmail.com
+
